@@ -11,5 +11,6 @@ export default {
   Description: DialogDescription,
   Input: DialogInput,
   Switch: DialogSwitch,
-  Title: DialogTitle
+  Title: DialogTitle,
+  Html: DialogHtml,
 };
