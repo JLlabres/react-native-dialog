@@ -4,6 +4,7 @@ import DialogDescription from "./Description";
 import DialogInput from "./Input";
 import DialogSwitch from "./Switch";
 import DialogTitle from "./Title";
+import DialogHtml from "./Html";
 
 export default {
   Button: DialogButton,
